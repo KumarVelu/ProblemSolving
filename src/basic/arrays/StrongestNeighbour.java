@@ -1,4 +1,4 @@
-package basic.arrays.problems;
+package basic.arrays;
 
 public class StrongestNeighbour {
 

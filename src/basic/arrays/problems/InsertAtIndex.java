@@ -9,7 +9,6 @@ public class InsertAtIndex {
 
     private static void insertAtIndex(int arr[],int sizeOfArray,int index,int element)
     {
-        //Your code here, Geeks
         int [] modifiedArr = new int[arr.length + 1];
 
         for (int i = 0; i < index; i++) {

@@ -5,10 +5,8 @@ import java.util.Arrays;
 public class ReverseArray {
 
     public static void main(String[] args) {
-
         int[] arr = {1, 23, 5, 6, 9};
         System.out.println(Arrays.toString(reverseArray(arr)));
-
     }
 
     private static int[] reverseArray(int[] arr) {
@@ -25,5 +23,4 @@ public class ReverseArray {
 
         return arr;
     }
-
 }

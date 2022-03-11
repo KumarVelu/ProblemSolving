@@ -1,6 +1,16 @@
 package basic.arrays;
 
 // An element is called the leader of an array if there is no element greater than it on the right side.
+/*
+    I/P : arr [] = {7, 10, 4, 10, 6, 5, 2};
+    O/P : {10, 6, 5, 2}
+
+    I/P : arr [] = {10, 20, 30}
+    O/P : 30
+
+    I/P : arr [] = {30, 20, 10}
+    O/P : 30, 20, 10
+ */
 public class LeaderInAnArray {
 
     public static void main(String[] args) {

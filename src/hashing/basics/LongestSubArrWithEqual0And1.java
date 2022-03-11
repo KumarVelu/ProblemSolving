@@ -36,11 +36,11 @@ public class LongestSubArrWithEqual0And1 {
             sum += arr[i];
             if (sum == 0) maxLen = i + 1;
 
-            if (hm.containsKey(sum + n)) {
-                if (maxLen < i - hm.get(sum + n))
-                    maxLen = i - hm.get(sum + n);
+            if (hm.containsKey(sum)) {
+                if (maxLen < i - hm.get(sum))
+                    maxLen = i - hm.get(sum);
 
-            } else hm.put(sum + n, i);
+            } else hm.put(sum, i);
         }
         return maxLen;
     }

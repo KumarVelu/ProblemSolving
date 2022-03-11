@@ -1,26 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b90bdc08-aca2-4c93-8179-05dccf0b7a3b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hashing/basics/CountDistinctElementsInArr.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hashing/basics/CountDistinctElementsInEveryWindow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hashing/basics/CountFrequencyOfEleInArr.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hashing/basics/IntersectionOfTwoArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hashing/basics/LongestCommonSumInTwoBinaryArr.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hashing/basics/LongestConsecutiveSubsequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hashing/basics/LongestSubArrWithEqual0And1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hashing/basics/LongestSubArrWithGivenSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hashing/basics/MoreThanNByKOccurence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hashing/basics/PairWithGivenSumInUnsortedArr.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hashing/basics/SubArrayWithGivenSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hashing/basics/SubArrayWithZeroSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hashing/basics/UnionOfTwoUnsortedArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/recursion/TestRecursion.java" afterDir="false" />
+    <list default="true" id="b90bdc08-aca2-4c93-8179-05dccf0b7a3b" name="Default Changelist" comment="- More problems in array.">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/arrays/FreqInSortedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/arrays/IsArraySorted.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/arrays/LongestEvenOddSubarray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/arrays/MaxConsecutiveOnesInBinaryArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/arrays/MoveZerosToEnd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/arrays/PrefixSumArrayFindEquilibriumPoint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/arrays/PrefixSumArrayQueryTheSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/arrays/SecondLargest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/arrays/TrappingRainWater.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hashing/challenge/CheckIf2ArraysAreEqualOrNot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hashing/challenge/FirstRepeatingElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hashing/challenge/LinearProbingInHashing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hashing/challenge/NumbersContainingOneTwoAndThree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hashing/challenge/PositiveNegativePair.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hashing/challenge/RelativeSorting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hashing/challenge/SeparateChainingInHashing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hashing/challenge/SortElementsOfArrByFrequency.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hashing/challenge/SubArrayRangeWithGivenSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hashing/challenge/SubArrayWithEqual0And1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hashing/challenge/WinnerOfAElection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hashing/challenge/ZeroSumSubArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hashing/contest/KthSmallestDifference.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hashing/contest/SumOfFirstKSmallestNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hashing/contest/XORPair.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProblemSolving.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ProblemSolving.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/arrays/LeaderInAnArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic/arrays/LeaderInAnArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/arrays/LeftRotateArrayByOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic/arrays/LeftRotateArrayByOne.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/arrays/ReverseArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic/arrays/ReverseArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/arrays/problems/StrongestNeighbour.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic/arrays/StrongestNeighbour.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hashing/basics/LongestSubArrWithEqual0And1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hashing/basics/LongestSubArrWithEqual0And1.java" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/out/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,22 +47,6 @@
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
   </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/hashing/basics/MoreThanNByKOccurence.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="245">
-              <caret line="23" column="34" lean-forward="true" selection-start-line="19" selection-start-column="8" selection-end-line="23" selection-end-column="34" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
-  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -57,6 +56,14 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -89,11 +96,18 @@
       </list>
     </option>
   </component>
+  <component name="KotlinCodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectFrameBounds">
     <option name="y" value="23" />
     <option name="width" value="1440" />
     <option name="height" value="814" />
   </component>
+  <component name="ProjectId" id="1lYe4a1uKjW87TUmkCPWhfZv8iU" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -126,29 +140,27 @@
       <pane id="Scope" />
     </panes>
   </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Application.SubArrayWithZeroSum">
-    <configuration name="CountDistinctElementsInEveryWindow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hashing.basics.CountDistinctElementsInEveryWindow" />
+  <component name="RunManager" selected="Application.MaxAndSecondMaxInArr">
+    <configuration name="LongestEvenOddSubarray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basic.arrays.LongestEvenOddSubarray" />
       <module name="ProblemSolving" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="hashing.basics.*" />
+          <option name="PATTERN" value="basic.arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -156,12 +168,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LongestConsecutiveSubsequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hashing.basics.LongestConsecutiveSubsequence" />
+    <configuration name="MaxAndSecondMaxInArr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basic.arrays.problems.MaxAndSecondMaxInArr" />
       <module name="ProblemSolving" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="hashing.basics.*" />
+          <option name="PATTERN" value="basic.arrays.problems.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -169,12 +181,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MoreThanNByKOccurence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hashing.basics.MoreThanNByKOccurence" />
+    <configuration name="MaxConsecutiveOnesInBinaryArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basic.arrays.MaxConsecutiveOnesInBinaryArray" />
       <module name="ProblemSolving" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="hashing.basics.*" />
+          <option name="PATTERN" value="basic.arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -182,12 +194,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SubArrayWithZeroSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hashing.basics.SubArrayWithZeroSum" />
+    <configuration name="PrefixSumArrayFindEquilibriumPoint" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basic.arrays.PrefixSumArrayFindEquilibriumPoint" />
       <module name="ProblemSolving" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="hashing.basics.*" />
+          <option name="PATTERN" value="basic.arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -195,12 +207,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UnionOfTwoUnsortedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hashing.basics.UnionOfTwoUnsortedArray" />
+    <configuration name="PrefixSumArrayQueryTheSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basic.arrays.PrefixSumArrayQueryTheSum" />
       <module name="ProblemSolving" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="hashing.basics.*" />
+          <option name="PATTERN" value="basic.arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -210,14 +222,15 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SubArrayWithZeroSum" />
-        <item itemvalue="Application.UnionOfTwoUnsortedArray" />
-        <item itemvalue="Application.MoreThanNByKOccurence" />
-        <item itemvalue="Application.CountDistinctElementsInEveryWindow" />
-        <item itemvalue="Application.LongestConsecutiveSubsequence" />
+        <item itemvalue="Application.MaxAndSecondMaxInArr" />
+        <item itemvalue="Application.PrefixSumArrayFindEquilibriumPoint" />
+        <item itemvalue="Application.PrefixSumArrayQueryTheSum" />
+        <item itemvalue="Application.LongestEvenOddSubarray" />
+        <item itemvalue="Application.MaxConsecutiveOnesInBinaryArray" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -312,6 +325,17 @@
       <window_info anchor="right" id="Palette&#9;" order="7" />
     </layout-to-restore>
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="- Problem solving questions based on Array. [Basic level]" />
     <MESSAGE value="- LeaderInArray&#10;- LeftRotateArrayByDTimes&#10;- MaxDiffInArr." />
@@ -323,21 +347,53 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/basic/arrays/LeaderInAnArray.java</url>
-          <line>17</line>
-          <properties />
+          <line>27</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/basic/arrays/problems/ReverseInGroups.java</url>
           <line>40</line>
-          <properties />
           <option name="timeStamp" value="3" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/hashing/basics/UnionOfTwoUnsortedArray.java</url>
           <line>64</line>
-          <properties />
           <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/hashing/challenge/FirstRepeatingElement.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/hashing/challenge/FirstRepeatingElement.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/hashing/challenge/SeparateChainingInHashing.java</url>
+          <line>48</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/hashing/challenge/RelativeSorting.java</url>
+          <line>45</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/hashing/contest/SumOfFirstKSmallestNumbers.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/hashing/contest/KthSmallestDifference.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/hashing/contest/KthSmallestDifference.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="11" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
